@@ -1,5 +1,5 @@
 @echo off
-SET _path=D:\scripts\projects
+SET _path=D:\scripts\progs
 
 IF "%1"=="" GOTO error
 

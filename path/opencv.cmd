@@ -8,7 +8,7 @@ SET path_opencv=D:\libs\opencv
 rem which version to use?
 
 rem use my own build
-echo --> HINT: remember to load qt48 and mingw
+echo -- HINT: remember to load qt48 and mingw
 GOTO install
 
 rem just build (make) does this even work??

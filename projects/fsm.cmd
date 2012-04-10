@@ -1,6 +1,6 @@
 title Spyder - dropCAM
 
-cd /D Z:\dropcam
+cd /D Z:\FSMlens
 
 call 2path mingw, qt48, opencv, py27-32
 
